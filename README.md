@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, my name is Vladimir and I'm a beginner iOS Developer.
 
-<!--
-**Giralis/Giralis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a curious self-taught developer who one day wants to lead his own team.
 
-Here are some ideas to get you started:
+  I've already used or read about:
+    - UIKit, ARKit
+    - MVC, MVVM, VIPER
+    - CocoaPods, SPM
+    - SwiftyJSON, Alamofire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I was learning Swift with:
+    - 📚 Apple's "Develop in Swift" Books
+    - 💻 Paul Hudson's "Hacking with Swift"
+    - 🌐 Various internet guides
+    - 🐂 Own motivation!
+
+- 🔭 I’m currently working on an app to manage a dance school.
+- ⚡ I study new things regularly, but my favourite is (trying 😅) to play piano.
