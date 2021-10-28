@@ -1,6 +1,6 @@
 ### Hello, my name is Vladimir and I'm a curious self-taught developer who one day wants to lead his own team.
 
-##I've already used or read about:
+## I've already used or read about:
     - UIKit, ARKit
     - MVC, MVVM, VIPER
     - CocoaPods, SPM
