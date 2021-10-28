@@ -6,7 +6,7 @@
     - CocoaPods, SPM
     - SwiftyJSON, Alamofire
 
-  I was learning Swift with:
+## I was learning Swift with:
     - 📚 Apple's "Develop in Swift" Books
     - 💻 Paul Hudson's "Hacking with Swift"
     - 🌐 Various internet guides
