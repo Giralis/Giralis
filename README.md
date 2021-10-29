@@ -1,7 +1,7 @@
 ### Hello, my name is Vladimir and I'm a curious self-taught developer who one day wants to lead his own team.
 
 ## I've already used or read about:
-    - UIKit, ARKit
+    - UIKit, ARKit, WebKit
     - MVC, MVVM, VIPER
     - CocoaPods, SPM
     - SwiftyJSON, Alamofire
@@ -12,5 +12,5 @@
     - 🌐 Various internet guides
     - 🐂 Own motivation!
 
-- 🔭 I’m currently working on an app to manage a dance school.
+- 🔭 I’m going to start work on an app to manage a dance school soon.
 - ⚡ I study new things regularly, but my favourite is (trying 😅) to play piano.
