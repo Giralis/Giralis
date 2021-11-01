@@ -13,4 +13,5 @@
     - 🐂 Own motivation!
 
 - 🔭 I’m going to start work on an app to manage a dance school soon.
+- 🔥 Currently working on a Telegram Bot using JavaScript and brand logo for startup.
 - ⚡ I study new things regularly, but my favourite is (trying 😅) to play piano.
