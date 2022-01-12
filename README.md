@@ -20,6 +20,9 @@
    <a href="www.linkedin.com/in/giralis">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+   <a href="https://www.codewars.com/users/Giralis">
+       <img src="https://img.shields.io/badge/codewars-%230077B5.svg?&style=for-the-badge&logo=codewars&logoColor=red"/>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:vladimirmail895@gmail.com'>vladimirmail895@gmail.com</a>
 </p>
