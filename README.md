@@ -12,7 +12,7 @@
     - 🌐 Various internet guides
     - 🐂 Own motivation!
 
-- 🔭 Currently working as a freelancer iOS-dev on Sminex app.
+- 🔭 Currently working as a freelancer iOS-dev on Sminex Comfort app.
 - 🔥 Also working on a Telegram Bot using JavaScript and brand logo for startup.
 - ⚡ I study new things regularly, but my favourite is (trying 😅) to play piano.
 
