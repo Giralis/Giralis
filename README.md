@@ -8,7 +8,7 @@
 
 ## I'm learning Swift with:
     - 📚 Apple's "Develop in Swift" Books
-    - 💻 Paul Hudson's "Hacking with Swift" (16/30 completed)
+    - 💻 Paul Hudson's "Hacking with Swift" (18/30 completed)
     - 🌐 Various internet guides
     - 🐂 Own motivation!
 
