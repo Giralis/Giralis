@@ -17,7 +17,7 @@
 - ⚡ I study new things regularly, but my favourite is (trying 😅) to play piano.
 
 <p align='center'>
-   <a href="www.linkedin.com/in/giralis">
+   <a href="www.linkedin.com/in/vtimofeev">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://www.codewars.com/users/Giralis">
