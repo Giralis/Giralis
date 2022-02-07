@@ -2,7 +2,7 @@
 
 ## I've already used or read about:
     - UIKit, ARKit, WebKit, CoreData, SpriteKit, GCD
-    - MVC, MVVM, VIPER
+    - MVC, MVP, MVVM, VIPER
     - CocoaPods, SPM
     - SwiftyJSON, Alamofire
 
