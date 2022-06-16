@@ -1,7 +1,7 @@
 ### Hello, my name is Vladimir and I'm a self-taught iOS developer.
 
 ## I've already used or read about:
-    - UIKit, ARKit, WebKit, CoreData, SpriteKit, GCD
+    - UIKit, SwiftUI, ARKit, WebKit, CoreData, SpriteKit, GCD
     - MVC, MVP, MVVM, VIPER
     - CocoaPods, SPM
     - SwiftyJSON, Alamofire, Firebase
