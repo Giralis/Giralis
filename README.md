@@ -4,7 +4,7 @@
     - UIKit, SwiftUI, ARKit, WebKit, CoreData, SpriteKit, GCD
     - MVC, MVP, MVVM, VIPER
     - CocoaPods, SPM
-    - SwiftyJSON, Alamofire, Firebase
+    - SwiftyJSON, Alamofire, Firebase, Fastlane
 
 ## I'm learning Swift with:
     - 📚 Apple's "Develop in Swift" Books
